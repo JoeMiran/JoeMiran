@@ -31,7 +31,7 @@ I'm a Computer Engineering student passionate about **software development**, **
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kali-linux&logoColor=00FF00)
 
 #### 👋🏻 Let´s connect !!!
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF00&color:ff5d8f)](mailto:thzliaramos@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00FF00&color:ff5d8f)](mailto:thzliaramos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00&color:ff5d8f)](https://www.linkedin.com/in/thaliaramoss)
 
 <img width="100%" height="400px" src="https://64.media.tumblr.com/6bb6d126dacd6548ead1462352075448/tumblr_mqvce1ISEE1qghzg0o1_500.gifv"/>

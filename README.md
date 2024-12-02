@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+MonoPause&weight=700&size=24&duration=4999&pause=1000&color=00FF00&&vCenter=true&width=435&lines=$npm+-i+Joel+Miranda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+MonoPause&weight=700&size=24&duration=4999&pause=1000&color=00FF00&&vCenter=true&width=435&lines=$npm+-i+Joel+Miranda+🤖)](https://git.io/typing-svg)
 ---
 
 🔒 **Aspiring DevSecOps & AppSec Professional | Computer Engineering Student**
